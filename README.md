@@ -7,4 +7,4 @@ This is a simple Java console application that allows the user to enter 5 number
 - Prints the array values in reverse order
 
 
-(git.png)
+![Screenshot](git.png)
